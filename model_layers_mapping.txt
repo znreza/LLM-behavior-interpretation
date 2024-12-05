@@ -1,0 +1,3 @@
+gemma-2b = 18
+gemma-7b = 28
+gemma-2-2b = 26
