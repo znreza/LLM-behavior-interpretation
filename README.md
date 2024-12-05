@@ -1,6 +1,6 @@
-Interpretation of Model Token Generation for Bias and Toxicity
+# LLM-behavior-interpretation
 
-===
+A visualization framework for interpreting alignment behaviors through token-generation processes in Large Language Model for bias and toxicity
 
 ## Description: 
 Developed a model interpretation pipeline inspired by the Decoding by Contrasting Layers (DoLA) strategy. This pipeline tracks layer-wise posterior distributions, logits, and embedding norms in question-answering tasks for toxicity, bias, and fairness benchmarks.
